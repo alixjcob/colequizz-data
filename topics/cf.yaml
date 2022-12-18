@@ -1,12 +1,12 @@
-title: 'Cloud Functions'
+title: 'CUSMA'
 quizzes:
     -
-        description: 'What is Serverless?'
-        id: cf-basics
-        title: Basics
+        description: 'what is a trade agreement?'
+        id: trade-agreements
+        title: Trade-Agreements
     -
-        id: cf-triggers
-        title: Triggers
-        description: 'How do you invoke a function?'
-id: cf
-img: cloud-functions.png
+        id: cusma
+        title: CUSMA
+        description: 'How and why CUSMA'
+id: cusma
+img: cusma.png
